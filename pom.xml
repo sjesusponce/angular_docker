@@ -53,7 +53,7 @@
 				<version>2.6</version><!--$NO-MVN-MAN-VER$ -->
 				<configuration>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
-					<outputDirectory>/WarsMaven/dropins</outputDirectory>
+					<!-- <outputDirectory>/WarsMaven/dropins</outputDirectory> -->
 				</configuration>
 			</plugin>
 			<plugin>
